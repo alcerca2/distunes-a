@@ -1,0 +1,15 @@
+
+.medios-interactivos {
+   width: 40px;
+   height: 40px;
+   background-color: transparentize(lightsteelblue, 0.3);
+   position: fixed;
+   bottom: 25px;
+   right: 10px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   border-radius: 50%;
+   font-size: $font-size-h5;
+   box-shadow: 3px 3px 8px rgba(0,0,0, 0.3);
+}

@@ -1,0 +1,42 @@
+.web-header {
+     display: flex;
+     justify-content: flex-end;
+     align-items: center;
+
+    box-sizing: border-box;
+    background: fade-out($color-grastur, 0.15); //$color-grastur;
+    color: $color-silver;
+    text-align: center;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    transition: background 0.2s;
+    padding: 5px 8px 5px 0;
+    
+    &:hover {
+        background: $color-grastur;
+    }
+
+    .web-title {
+        display: flex;
+        font-size: $font-size-large;
+        font-weight: bold;
+        text-transform: uppercase;
+        
+        width: 35%;
+    }
+
+    .form-search {
+        display: flex;
+        align-items: center;
+
+        .busquedas {
+            width: 150px;
+            margin-left: 15px;
+            padding: 5px;
+            background: $color-silver;
+        }
+    }
+
+
+}

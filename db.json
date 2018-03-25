@@ -1,0 +1,116 @@
+{
+  "songs": [
+    {
+      "id": 2,
+      "title": "Fire Escape",
+      "artist": "Andrew McMahon",
+      "likes_qty": "10",
+      "cover_url": "http://a3.mzstatic.com/eu/r30/Music42/v4/3b/de/33/3bde3376-2cb8-8f5f-a1cc-3e9173bf11c9/cover600x600.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Ultraviolet",
+      "artist": "U2",
+      "likes_qty": "4",
+      "cover_url": "https://s-media-cache-ak0.pinimg.com/originals/50/5f/1c/505f1c3c90e7dfa9950a825be09d3944.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Love on the Weekend",
+      "artist": "Jhon Mayer",
+      "likes_qty": "5",
+      "cover_url": "https://pbs.twimg.com/media/Cw5FNxiUQAAUF0Y.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Shadow of the day",
+      "artist": "Linkin Park",
+      "likes_qty": "50",
+      "cover_url": "http://ringtonezzz.com/UserFiles/cover/img/Shadow_of_the_Day-Linkin_Park.jpg"
+    },
+    {
+      "id": 8,
+      "title": "On Hold",
+      "artist": "The xx",
+      "likes_qty": "100",
+      "cover_url": "https://streamd.hitparade.ch/cdimages/the_xx-on_hold_s.jpg"
+    },
+    {
+      "id": 9,
+      "title": "You're in love with a psycho",
+      "artist": "Kasabian",
+      "likes_qty": "9999",
+      "cover_url": "http://obs.smehost.net/kasabiancouk-ukprod/wp-content/uploads/2017/03/KSBN-FCOL_STD-AlbumLAYERED_v3.5-768x768.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Wild Horses Run Faster",
+      "artist": "Bishop Briggs",
+      "likes_qty": "12",
+      "cover_url": "https://images.genius.com/401b1a7d39faa7906339c5b2f7ef6ddf.1000x1000x1.jpg"
+    },
+    {
+      "artist": "Ed Sheeran",
+      "title": "Divide",
+      "likes_qty": "0",
+      "cover_url": "http://images.genius.com/fc44439c55552eb23d4a9ecb28a21f06.1000x1000x1.jpg",
+      "id": 14
+    },
+    {
+      "artist": "Kings of Leon",
+      "title": "Walls",
+      "likes_qty": "15",
+      "cover_url": "http://fasterlouder.junkee.com/wp-content/uploads/2016/10/Kings-of-Leon-Walls-2016-2480x2480.jpg",
+      "id": 15
+    },
+    {
+      "artist": "Placebo",
+      "title": "Meds",
+      "likes_qty": "200",
+      "cover_url": "https://images.eil.com/large_image/PLACEBO_MEDS-394492b.jpg",
+      "id": 18
+    },
+    {
+      "artist": "artist: Kings of Leon",
+      "title": "Muchacho",
+      "likes_qty": "26",
+      "cover_url": "https://i1.sndcdn.com/artworks-000207567660-taa4it-t500x500.jpg",
+      "id": 19
+    },
+    {
+      "artist": "Bloc Party",
+      "title": "Flux",
+      "likes_qty": "45",
+      "cover_url": "https://www.amoeba.com/admin/uploads/albums/covers/other//BlocParty_Flux.jpg",
+      "id": 20
+    },
+    {
+      "artist": "Re-Wired",
+      "title": "Kasibian",
+      "likes_qty": "78",
+      "cover_url": "https://wearethelastbeatniks.files.wordpress.com/2011/10/kasabianlaterwithjoolsholland.jpg",
+      "id": 21
+    },
+    {
+      "artist": "El Fari",
+      "likes_qty": "3450",
+      "title": "Bohemian Rhapsody",
+      "cover_url": "http://thetropixs.com/wp-content/uploads/2016/09/The-Weeknd-Starboy-album-cover-art-4.jpg",
+      "id": 22
+    },
+    {
+      "artist": "Bisbal",
+      "title": "JSón Latino",
+      "likes_qty": "1",
+      "cover_url": "http://is1.mzstatic.com/image/thumb/Music/v4/fd/2f/23/fd2f231a-e25f-b261-489e-05c98db503cc/source/600x600bb.jpg",
+      "id": 23
+    },
+    {
+      "artist": "Manolo Escobar",
+      "title": "Mi Carro",
+      "cover_url": "http://3.bp.blogspot.com/-l62fsKSPxCA/UmmsELM2lhI/AAAAAAAAaYQ/vkaeOAgRygA/s1600/Ha+Muerto+Manolo+Escobar+El+Carro+detuvo+su+carrera.jpg",
+      "id": 24,
+      "likes_qty": "NaN"
+    }
+  ]
+}

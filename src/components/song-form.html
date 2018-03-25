@@ -1,0 +1,29 @@
+
+<!-- form>div*2+div>div*4 -->
+
+<form novalidate class="song-form" action="">
+
+    <div class="ui-status error">Se ha producido un error</div>
+
+    <div class="ui-status loading">Guardando Canción...</div>
+
+    <div class="ui-status ideal">
+        <div class="form-control-group">
+            <label for="artist">Artist</label>
+            <input id="artist" type="text" name="artist" placeholder="Artist" required>
+        </div>
+        <div class="form-control-group">
+            <label for="title">Title</label>
+            <input id="title" type="text" name="title" placeholder="Title" required>
+        </div>
+        <div class="form-control-group">
+            <label for="cover_url">Cover URL</label>
+            <input id="cover_url" type="url" name="cover_url" placeholder="http://...">
+        </div>
+        <div class="form-control-group">
+            <button>Save song</button>
+        </div>
+    </div>
+
+</form>
+

@@ -1,0 +1,33 @@
+.web-footer {
+
+    box-sizing: border-box;
+    background: fade-out($color-grastur, 0.15); //$color-grastur;
+    color: $color-silver;
+    text-align: center;
+    padding: 15px;
+    bottom: 0px;
+    width: 100%;
+    transition: background 0.2s;
+    
+    &:hover {
+        background: $color-grastur;
+    }
+
+    .web-title {
+        font-size: $font-size-large;
+        font-weight: bold;
+        text-transform: uppercase;
+    }
+
+    a {
+        color: $color-silver;
+        padding-right: 15px;
+        text-decoration: none;
+    }
+}
+
+// .web-footer-fixed { 
+//     @extend .web-footer;
+//     position: fixed;
+// }
+
